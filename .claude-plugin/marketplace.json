@@ -1,0 +1,7 @@
+{
+  "name": "teachy",
+  "owner": { "name": "Taha Mansoor" },
+  "plugins": [
+    { "name": "teachy", "source": "./", "description": "Hands-on tutor mode that grades your process, not just the answer." }
+  ]
+}
