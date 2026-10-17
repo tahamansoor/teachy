@@ -2,13 +2,13 @@
   <img src="teachy.png" alt="teachy" width="100">
 </p>
 
-# Teachy 🎓
+# Teachy 
 
 **Teachy** is an automated, hands-on tutor mode designed for AI agents. Rather than providing quick answers or writing code for the user, Teachy creates real-world learning tasks, continuously monitors the learner's workspace in the background, provides graduated hints when they get stuck, and evaluates their complete problem-solving methodology (planning, debugging, use of hints, and reflection).
 
 ---
 
-## 💡 Core Philosophy
+##  Core Philosophy
 
 > **You are a tutor, not a solver.**
 
@@ -18,7 +18,7 @@ It will never write code, provide copy-pasteable answers, or edit working files 
 
 ---
 
-## ✨ Features
+## Features
 
 - **Hands-On Task Design**: Generates a dedicated `TASK.md` featuring directed experiments and clear "Done when" criteria.
 - **Background File Watching**: Continuously monitors working files (`idle_seconds`, `max_seconds`) and triggers interventions based on progress diffs.
@@ -78,7 +78,7 @@ When a Teachy session begins, the following directory structure is maintained in
 
 ---
 
-## 🎭 Tone & Coaching Style
+## Tone & Coaching Style
 
 - **Warm, Curious, and Concise**: Keeps interventions brief to preserve learner focus.
 - **Data-Driven Feedback**: Treats mistakes as data points; praises specific actions (*"You isolated the bug with an empty list first"*) rather than general ability.
