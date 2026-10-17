@@ -31,7 +31,7 @@ It will never write code, provide copy-pasteable answers, or edit working files 
 
 ---
 
-## 🔄 Session Flow
+## Session Flow
 
 1. **Intake**: A brief 1-message exchange to establish topic, skill level, available time, and preferred workspace environment.
 2. **Task Creation**: Generates `TASK.md` with explicit objectives, 3–5 exploration experiments, and checkable success criteria.
